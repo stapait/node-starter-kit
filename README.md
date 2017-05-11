@@ -4,6 +4,8 @@ A Node.js project with all configurations
 This quickstart project currently use:
  - Express
  - Mocha
- - ESlint
+ - Chai
  - Sinon
+ - ESlint 
  - Istanbul
+ - EditorConfig
