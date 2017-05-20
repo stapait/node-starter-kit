@@ -1,7 +1,7 @@
 # node-starter-kit
 A Node.js project with all configurations
 
-This quickstart project currently use:
+This quickstart project currently uses:
  - Express
  - Mocha
  - Chai
@@ -9,3 +9,4 @@ This quickstart project currently use:
  - ESlint 
  - Istanbul
  - EditorConfig
+ - Joi
